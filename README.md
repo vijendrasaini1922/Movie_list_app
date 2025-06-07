@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # Some Screenshot captured
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img src="image.png" alt="Alt Text" width="50%" height="200">
+<img src="image-1.png" alt="Alt Text" width="50%" height="200">
+<img src="image-2.png" alt="Alt Text" width="50%" height="200">
